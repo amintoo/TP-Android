@@ -1,0 +1,2 @@
+include ':app', ':exemplespinner', ':fragments'
+rootProject.name='TPCours'
