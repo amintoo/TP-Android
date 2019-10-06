@@ -1,2 +1,2 @@
-include ':app', ':exemplespinner', ':fragments'
+include ':firstApp', ':exemplespinner', ':fragments', ':newletter', ':tpnewlsetter'
 rootProject.name='TPCours'
